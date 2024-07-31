@@ -136,7 +136,7 @@
           ],
           "properties": {
             "RepoUrl": "https://github.com/Vigneshgnanashankar/bold-reports-azure.git",
-            "branch": "v6.2.25",
+            "branch": "v6.2_release_testing",
             "IsManualIntegration": true
           }
         },
